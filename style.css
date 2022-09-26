@@ -1,0 +1,12 @@
+/*--- Main CSS here ---*/
+p
+{
+	font-size: 2em;
+	text-align: center;
+}
+
+div#foot
+{
+	font-size: 7px;
+	margin: 0 40px 0 40px;
+}
